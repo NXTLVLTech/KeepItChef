@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>288217129876-5tea8vte7iac1135nim7e6nhtkhg2v4p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.288217129876-5tea8vte7iac1135nim7e6nhtkhg2v4p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIjqO9tXHpDottE0VQOCJHeb1Yso5xyCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288217129876</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nxtlvl.keepitchef</string>
+	<key>PROJECT_ID</key>
+	<string>keep-it-chef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>keep-it-chef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288217129876:ios:dc8fa2a8728ba4ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://keep-it-chef.firebaseio.com</string>
+</dict>
+</plist>
